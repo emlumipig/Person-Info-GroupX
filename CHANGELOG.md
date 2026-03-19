@@ -2,3 +2,5 @@
 (@User)
 ### v1.1.0 - [Date] - Added age/adress.
 (@User)
+### v1.2.0 - [Date] - Added birth math.
+(@User)
